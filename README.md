@@ -1,2 +1,3 @@
 # Google Search Engine Clone _(HTML, CSS, and Js)_
-![alt text](https://github.com/AkashKobal/web-development/blob/main/8.%20Google%20Search%20Engine%20Clone/output.png)
+-[My_Git-ID](https://github.com/remzyyy)
+-[My_Project](https://do-google.netlify.app/)
